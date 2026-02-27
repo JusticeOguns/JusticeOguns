@@ -27,10 +27,10 @@ To secure a Tier 1 SOC Analyst role where I can apply practical experience in lo
 
 | Skill | Associated Project |
 |-------|-------------------|
-| SIEM Log Analysis & Detection Engineering | Detection Engineering Lab |
-| Threat Intelligence & IOC Analysis | OpenCTI Threat Intelligence Lab |
-| Security Automation & Case Management | SOC Automation Lab |
-| Incident Investigation & Documentation | Incident Response Case Study |
+| SIEM Log Analysis & Detection Engineering | [Detection Engineering Lab](https://github.com/JusticeOguns/detection-engineering-lab) |
+| Threat Intelligence & IOC Analysis | [OpenCTI Threat Intelligence Lab](https://github.com/JusticeOguns/opencti-threat-intelligence-lab) |
+| Security Automation & Case Management | [SOC Automation Lab](https://github.com/JusticeOguns/soc-automation-lab) |
+| Incident Investigation & Documentation |[Incident Response Case Study](https://github.com/JusticeOguns/incident-response-case-study) |
 
 ---
 
